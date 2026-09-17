@@ -1,0 +1,9 @@
+{
+	"scripts": {
+		"check": "prettier -c site",
+		"format": "prettier -w site"
+	},
+	"devDependencies": {
+		"prettier": "3.9.7"
+	}
+}
